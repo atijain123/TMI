@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{start}} to {{end}}</title>
+</head>
+<body>
+
+    <p>Directions from {{start}} to {{end}}</p>
+
+    <img src="{{ image_start }}" alt="{{ start }}" width="300" height="200">
+    <img src="{{ image_end }}" alt="{{ end }}" width="300" height="200">
+
+    <iframe
+      width="450"
+      height="250"
+      frameborder="0" style="border:0"
+      referrerpolicy="no-referrer-when-downgrade"
+      src="https://www.google.com/maps/embed/v1/directions?key={{ api_key }}&origin={{ start_lat }}+{{ start_lon }}&destination={{ end_lat }}+{{ end_lon }}&mode=walking"
+      allowfullscreen>
+    </iframe>
+    <a href="/initial/{{ start }}" >Go back</a>
+</body>
+</html>

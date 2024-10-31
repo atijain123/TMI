@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HOME PAGE</title>
+</head>
+<body>
+    <p>Choose a starting location or scan a QR code:</p>
+
+    <ul>
+        {% for name in names %}
+            <li><a href="/initial/{{ name }}">{{ name }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Locations from {{ name }}</title>
+    <style>
+        body {
+            background-image: url('{{ start_image }}');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Locations from {{ name }}</h1>
+    <p>Choose a location:</p>
+
+    <ul>
+        {% for end in names %}
+            <li><a href="/final/{{ name }}/{{ end }}">{{ end }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <a href="/">Go back</a>
+</body>
+</html>
