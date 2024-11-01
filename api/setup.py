@@ -2,7 +2,7 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
-api_key = "AIzaSyDr8bexspmifEUzK0Es0n9IEo8LOTuqO-o"
+api_key = "AIzaSyCF8z7l1vQC9bbM1ZMRjwr8Cq8rMZKMjw0"
 locations = {
     "JAMES THOMSON": {
         "lat": 29.86586949616119,
