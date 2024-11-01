@@ -108,6 +108,10 @@ locations = {
         "lat": 29.862229744199627,
         "lon": 77.89505107759065
     },
+    "TINKERING': {
+    "lat": 29.863769754464432,
+    "lon": 77.89652038065138
+    },
 }
 images = {
     "JAWAHAR BHAWAN": "https://www.iitr.ac.in/jawaharbhawan/Images/card/hero.JPG",
