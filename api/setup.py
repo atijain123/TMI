@@ -116,6 +116,9 @@ locations = {
 images = {
     "JAWAHAR BHAWAN": "https://www.iitr.ac.in/jawaharbhawan/Images/card/hero.JPG",
     "GANGA BHAWAN": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlxKJR6jiNjfFnEQ35wztCGLIP8s1WCCKL_w&s",
+    "JAMES THOMSON": "https://www.flickr.com/photos/80443278@N03/19897756159",
+    "LIBRARY": "https://www.picxy.com/photo/268919",
+    
 }
 
 names = locations.keys()
