@@ -40,9 +40,9 @@ locations = {
         "lat": 29.87039762125359, 
         "lon": 77.8946230469015
     },
-    "LBS CIRCLE": {
-        "lat": 29.867972658949906, 
-        "lon": 77.89383279123994
+    "LBS": {
+        "lat": 29.867996419259715, 
+        "lon": 77.89555270184519
     },
     "RAJIV": {
         "lat": 29.869808829264905, 
@@ -116,9 +116,16 @@ locations = {
 images = {
     "JAWAHAR BHAWAN": "https://www.iitr.ac.in/jawaharbhawan/Images/card/hero.JPG",
     "GANGA BHAWAN": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlxKJR6jiNjfFnEQ35wztCGLIP8s1WCCKL_w&s",
-    "JAMES THOMSON": "https://www.flickr.com/photos/80443278@N03/19897756159",
+    "JAMES THOMSON": "https://live.staticflickr.com/502/19897756159_eb85bd3a12_h.jpg",
     "LIBRARY": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROapuQcfblPWlqQg_DsGJEp-STXX-EQh0bHg&s",
-    
+    "MAC": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_c6vnq3Kx9S3ShC-oiVuyeSZguGBAMvmmqg&s",
+    "APJ": "",
+    "GARGI BLOCK": "",
+    "SAC": "https://iitr.ac.in/Campus%20Life/Student%20Groups/assets/983bd614bb5afece5ab3b6023f71147cd7b6bc2314f9d27af7422541c6558389_Chess.jpg",
+    "CHURCH": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREov9tvU7N54fa9iROGkqninG8nbadsWLezg&s",
+    "HOSPITAL": "https://iitr.ac.in/Institute/assets/81aacf180df34c201f6a2e365d48ff3e2881985e51514703f1938e2901318a52_1.jpg",
+    "RJB": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFoLCmvrLKyS6dlPGS0hCFDJgPr-WI61KFyg&s",
+    "LBS": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInsvUbWP5O9-a2Zq86xEMxr2wwrzx_zujEQ&s",   
 }
 
 names = locations.keys()
