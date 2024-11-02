@@ -36,9 +36,13 @@ locations = {
         "lat": 29.87039762125359, 
         "lon": 77.8946230469015
     },
-    "LBS": {
-        "lat": 29.867996419259715, 
-        "lon": 77.89555270184519
+    "LBS STADIUM": {
+        "lat": 29.867389974859353, 
+        "lon": 77.89567230241148
+    },
+    "LBS CIRCLE": {
+        "lat": 29.867994722324255, 
+        "lon": 77.89385912916735
     },
     "RAJIV": {
         "lat": 29.869808829264905, 
@@ -104,9 +108,13 @@ locations = {
     "lat": 29.863769754464432,
     "lon": 77.89652038065138
     },
+    "MAJOR DHYAN CHAND STADIUM": {
+    "lat": 29.86787623577121, 
+    "lon": 77.8987991094873
+    },
 }
 images = {
-    "JAWAHAR BHAWAN": "https://www.iitr.ac.in/jawaharbhawan/Images/card/hero.JPG",
+    "JAWAHAR BHAWAN": "C:\Users\Lenovo\OneDrive\Desktop\TMI PROJECT\PHOTOS\jawahar.jpg",
     "GANGA BHAWAN": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlxKJR6jiNjfFnEQ35wztCGLIP8s1WCCKL_w&s",
     "JAMES THOMSON": "https://live.staticflickr.com/502/19897756159_eb85bd3a12_h.jpg",
     "LIBRARY": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROapuQcfblPWlqQg_DsGJEp-STXX-EQh0bHg&s",
