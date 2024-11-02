@@ -24,10 +24,6 @@ locations = {
         "lat": 29.864600609573657, 
         "lon": 77.8935836372435
     },
-    "SAC": {
-        "lat": 29.866655991651918,
-        "lon": 77.89943869347913
-    },
     "CHURCH": {
         "lat": 29.86684837185326, 
         "lon": 77.89131591082639
@@ -64,10 +60,6 @@ locations = {
         "lat": 29.867519382413825,
         "lon": 77.90180042547826
     },
-    "GATE NO 3": {
-        "lat": 29.86949126288729, 
-        "lon": 77.89529559699169
-    },
     "GATE NO 2": {
         "lat": 28.463963909643482, 
         "lon": 77.49274756288443
@@ -96,7 +88,7 @@ locations = {
         "lat": 29.864569674912456, 
         "lon": 77.89358748146739
     },
-    "CAUTELEY BHAWAN": {
+    "CAUTLEY BHAWAN": {
         "lat": 29.870706786648313, 
         "lon": 77.89669648361803
     },
@@ -119,13 +111,26 @@ images = {
     "JAMES THOMSON": "https://live.staticflickr.com/502/19897756159_eb85bd3a12_h.jpg",
     "LIBRARY": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROapuQcfblPWlqQg_DsGJEp-STXX-EQh0bHg&s",
     "MAC": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_c6vnq3Kx9S3ShC-oiVuyeSZguGBAMvmmqg&s",
-    "APJ": "",
-    "GARGI BLOCK": "",
-    "SAC": "https://iitr.ac.in/Campus%20Life/Student%20Groups/assets/983bd614bb5afece5ab3b6023f71147cd7b6bc2314f9d27af7422541c6558389_Chess.jpg",
     "CHURCH": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREov9tvU7N54fa9iROGkqninG8nbadsWLezg&s",
     "HOSPITAL": "https://iitr.ac.in/Institute/assets/81aacf180df34c201f6a2e365d48ff3e2881985e51514703f1938e2901318a52_1.jpg",
     "RJB": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFoLCmvrLKyS6dlPGS0hCFDJgPr-WI61KFyg&s",
-    "LBS": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInsvUbWP5O9-a2Zq86xEMxr2wwrzx_zujEQ&s",   
+    "LBS": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInsvUbWP5O9-a2Zq86xEMxr2wwrzx_zujEQ&s",
+    "RAJIV": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HtGGstvJhgN3dZN4tTOJQv-JMGrByEB4RQ&s",
+    "SARASWATI MANDIR": "https://iitr.ac.in/Campus%20Life/Facilities/assets/dbae772db29058a88f9bd830e957c695347c41b6162a7eb9a9ea13def34be56b_temple.jpeg",
+    "CONVOCATION": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_AGi_ShWhH3cWOJIF9J_IlD5xLBB4V0XyHA&s",
+    "GATE NO 5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_r5xUpklIZf5CG-0cDzpjwRzp8rg6ay3lFg&s",
+    "KASTURBA": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHL9YCYa6BJ9x2orGf2AlPdK4Ue4j_HpTerg&s",
+    "GATE NO 2": "https://images.shiksha.com/mediadata/images/1570610774php52UF0f.png",
+    "RADHAKRISHNA BHAWAN": "https://content.jdmagicbox.com/comp/roorkee/d5/9999p1332.1332.180810133417.v7d5/catalogue/radhakrishnan-bhawan-civil-lines-roorkee-hostel-for-boy-students-zj33vi3ecl.jpg",
+    "RAILWAY TICKET COUNTER": "https://scriet.ccsuniversity.ac.in/assets/images/railway01.jpg",
+    "ABN GROUND": "https://i.ytimg.com/vi/8bA3Swg1dzM/maxresdefault.jpg",
+    "RAVINDRA BHAWAN": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_wkLoid3Hhm6PcP88EszeLIXJKOndpYEwbQ&s",
+    "CAUTLEY BHAWAN": "https://images.picxy.com/cache/2019/7/8/f8c74e6cf63aab86c2c0b8d4f45e7a8e.jpg",
+    "SAROJINI BHAWAN": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyJc_nJ8ow90xttuWy_TGUPrIRrJjMhx1bw&s",
+    "GOVIND BHAWAN": "https://content.jdmagicbox.com/comp/roorkee/g5/9999p1332.1332.180810112231.w2g5/catalogue/govind-bhawan-civil-lines-roorkee-hostel-for-boy-students-gcn44q02j0.jpg",
+    "TINKERING": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRw9semA400bNx9ZMzQa66tMLihAGWGRz6fg&s",
+    "APJ": "https://images.picxy.com/cache/2019/7/8/061592d9ecb66f51b38d2515de1b5bbe.jpg",
+    "GARGI BLOCK": "https://images.picxy.com/cache/2019/7/8/fe882d04dec3ceca830f418154a0d689.jpg",
 }
 
 names = locations.keys()
