@@ -36,9 +36,9 @@ locations = {
         "lat": 29.87039762125359, 
         "lon": 77.8946230469015
     },
-    "LBS STADIUM": {
-        "lat": 29.867389974859353, 
-        "lon": 77.89567230241148
+    "LBS GROUND": {
+        "lat": 29.867642647563336, 
+        "lon": 77.89545018859316
     },
     "LBS CIRCLE": {
         "lat": 29.867994722324255, 
@@ -60,6 +60,10 @@ locations = {
         "lat": 29.8691186971069, 
         "lon": 77.89967080849712
     },
+    "GATE NO 1": {
+        "lat": 29.86542896633634,
+        "lon": 77.88946119263912
+    },
     "KASTURBA": {
         "lat": 29.867519382413825,
         "lon": 77.90180042547826
@@ -76,6 +80,10 @@ locations = {
         "lat": 29.871367538680406,
         "lon": 77.89501823181622
     },
+    "SAC": {
+        "lat": 29.86670245624409,
+        "lon": 77.89980133832302
+    },
     "RAILWAY TICKET COUNTER": {
         "lat": 29.86120127169366,
         "lon": 77.89353457246298
@@ -83,10 +91,6 @@ locations = {
     "JAWAHAR BHAWAN": {
         "lat": 29.86376602516524, 
         "lon": 77.9009155978279
-    },
-    "ABN GROUND": {
-        "lat": 29.86964547716228,
-        "lon": 77.89633761234211
     },
     "RAVINDRA BHAWAN": {
         "lat": 29.864569674912456, 
@@ -104,10 +108,6 @@ locations = {
         "lat": 29.862229744199627,
         "lon": 77.89505107759065
     },
-    "TINKERING": {
-    "lat": 29.863769754464432,
-    "lon": 77.89652038065138
-    },
     "MAJOR DHYAN CHAND STADIUM": {
     "lat": 29.86787623577121, 
     "lon": 77.8987991094873
@@ -115,30 +115,32 @@ locations = {
 }
 images = {
     "JAWAHAR BHAWAN": "../../static/images/jawahar.jpg",
-    "GANGA BHAWAN": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlxKJR6jiNjfFnEQ35wztCGLIP8s1WCCKL_w&s",
-    "JAMES THOMSON": "https://live.staticflickr.com/502/19897756159_eb85bd3a12_h.jpg",
-    "LIBRARY": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROapuQcfblPWlqQg_DsGJEp-STXX-EQh0bHg&s",
-    "MAC": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_c6vnq3Kx9S3ShC-oiVuyeSZguGBAMvmmqg&s",
-    "CHURCH": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREov9tvU7N54fa9iROGkqninG8nbadsWLezg&s",
-    "HOSPITAL": "https://iitr.ac.in/Institute/assets/81aacf180df34c201f6a2e365d48ff3e2881985e51514703f1938e2901318a52_1.jpg",
-    "RJB": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFoLCmvrLKyS6dlPGS0hCFDJgPr-WI61KFyg&s",
-    "LBS": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInsvUbWP5O9-a2Zq86xEMxr2wwrzx_zujEQ&s",
-    "RAJIV": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HtGGstvJhgN3dZN4tTOJQv-JMGrByEB4RQ&s",
-    "SARASWATI MANDIR": "https://iitr.ac.in/Campus%20Life/Facilities/assets/dbae772db29058a88f9bd830e957c695347c41b6162a7eb9a9ea13def34be56b_temple.jpeg",
-    "CONVOCATION": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_AGi_ShWhH3cWOJIF9J_IlD5xLBB4V0XyHA&s",
-    "GATE NO 5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_r5xUpklIZf5CG-0cDzpjwRzp8rg6ay3lFg&s",
-    "KASTURBA": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHL9YCYa6BJ9x2orGf2AlPdK4Ue4j_HpTerg&s",
-    "GATE NO 2": "https://images.shiksha.com/mediadata/images/1570610774php52UF0f.png",
-    "RADHAKRISHNA BHAWAN": "https://content.jdmagicbox.com/comp/roorkee/d5/9999p1332.1332.180810133417.v7d5/catalogue/radhakrishnan-bhawan-civil-lines-roorkee-hostel-for-boy-students-zj33vi3ecl.jpg",
-    "RAILWAY TICKET COUNTER": "https://scriet.ccsuniversity.ac.in/assets/images/railway01.jpg",
-    "ABN GROUND": "https://i.ytimg.com/vi/8bA3Swg1dzM/maxresdefault.jpg",
-    "RAVINDRA BHAWAN": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_wkLoid3Hhm6PcP88EszeLIXJKOndpYEwbQ&s",
-    "CAUTLEY BHAWAN": "https://images.picxy.com/cache/2019/7/8/f8c74e6cf63aab86c2c0b8d4f45e7a8e.jpg",
-    "SAROJINI BHAWAN": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyJc_nJ8ow90xttuWy_TGUPrIRrJjMhx1bw&s",
-    "GOVIND BHAWAN": "https://content.jdmagicbox.com/comp/roorkee/g5/9999p1332.1332.180810112231.w2g5/catalogue/govind-bhawan-civil-lines-roorkee-hostel-for-boy-students-gcn44q02j0.jpg",
-    "TINKERING": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRw9semA400bNx9ZMzQa66tMLihAGWGRz6fg&s",
-    "APJ": "https://images.picxy.com/cache/2019/7/8/061592d9ecb66f51b38d2515de1b5bbe.jpg",
-    "GARGI BLOCK": "https://images.picxy.com/cache/2019/7/8/fe882d04dec3ceca830f418154a0d689.jpg",
+    "GANGA BHAWAN": "../../static/images/ganga.jpg",
+    "JAMES THOMSON": "../../static/images/james thomson building.jpg",
+    "LIBRARY": "../../static/images/library.jpg",
+    "MAC": "../../static/images/mac.jpg",
+    "CHURCH": "../../static/images/church.jpg",
+    "HOSPITAL": "../../static/images/hospital.jpg",
+    "RJB": "../../static/images/rjb.jpg",
+    "LBS GROUND": "../../static/images/lbs ground.jpg",
+    "LBS CIRCLE": "../../static/images/lbs circle.jpg",
+    "RAJIV": "../../static/images/rajiv.jpg",
+    "SARASWATI MANDIR": "../../static/images/saraswati.jpg",
+    "SAC": "../../static/images/sac.jpg",
+    "CONVOCATION": "../../static/images/convocation.jpg",
+    "GATE NO 1": "../../static/images/gate no 1.jpg",
+    "GATE NO 5": "../../static/images/gate no 5.jpg",
+    "KASTURBA": "../../static/images/kasturba.jpg",
+    "GATE NO 2": "../../static/images/gate no 2.jpg",
+    "RADHAKRISHNA BHAWAN": "../../static/images/rkb.jpg",
+    "RAILWAY TICKET COUNTER": "../../static/images/railway.jpg",
+    "RAVINDRA BHAWAN": "../../static/images/ravindra.jpg",
+    "CAUTLEY BHAWAN": "../../static/images/cautley.jpg",
+    "SAROJINI BHAWAN": "../../static/images/sarojini.jpg",
+    "GOVIND BHAWAN": "../../static/images/govind.jpg",
+    "APJ": "../../static/images/apj.jpg",
+    "GARGI BLOCK": "../../static/images/gargi.jpg",
+    "MAJOR DHYAN CHAND STADIUM": "../../static/images/mdc.jpg"
 }
 
 names = locations.keys()
