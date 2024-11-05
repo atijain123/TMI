@@ -114,7 +114,7 @@ locations = {
     },
 }
 images = {
-    "JAWAHAR BHAWAN": "https://i.ytimg.com/vi/brUgA3cLEkw/hqdefault.jpg",
+    "JAWAHAR BHAWAN": "../../static/images/jawahar.jpg",
     "GANGA BHAWAN": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlxKJR6jiNjfFnEQ35wztCGLIP8s1WCCKL_w&s",
     "JAMES THOMSON": "https://live.staticflickr.com/502/19897756159_eb85bd3a12_h.jpg",
     "LIBRARY": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROapuQcfblPWlqQg_DsGJEp-STXX-EQh0bHg&s",
