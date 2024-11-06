@@ -3,13 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <title>HOME PAGE</title>
+    <style>
+        .button-link {
+            display: inline-block;
+            padding: 5px 10px;
+            font-size: 14px;
+            color: white;
+            background-color: #007BFF;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .button-link:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
 <body>
     <p>Choose a starting location or scan a QR code:</p>
 
     <ul>
         {% for name in names %}
-            <li><a href="/initial/{{ name }}">{{ name }}</a></li>
+            <li><a class="button-link" href="/initial/{{ name }}">{{ name }}</a></li>
         {% endfor %}
     </ul>
 </body>
