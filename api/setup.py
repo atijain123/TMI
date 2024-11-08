@@ -121,7 +121,7 @@ images = {
     "MAC": "../../static/images/mac.jpg",
     "CHURCH": "../../static/images/church.jpg",
     "HOSPITAL": "../../static/images/hospital.jpg",
-    "RJB": "../../static/images/rjb2.0.jpg",
+    "RJB": "https://qph.cf2.quoracdn.net/main-qimg-b250719e7c7d9508dc358aefa95204b1-lq",
     "LBS GROUND": "../../static/images/lbsground.jpg",
     "LBS CIRCLE": "../../static/images/lbscircle.jpg",
     "RAJIV": "../../static/images/rajiv.jpg",
